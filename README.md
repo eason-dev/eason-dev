@@ -8,9 +8,6 @@
   <a href="https://www.facebook.com/chang.ying.hsiang" target="_blank">
   <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white height="25" alt="facebook logo" />
   </a>
-  <a href="https://www.instagram.com/_easonchang/" target="_blank">
-  <img src="https://camo.githubusercontent.com/f41da31bf426102ea1df9c083e9a316abd3af1ffb908fd8c9bd7be651d4d4541/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" height="25" alt="instagram logo" />
-  </a>
 </div>
 
 <h1 align="center">Hey! I am Eason Chang! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" alt="waving hand" /></h1>
